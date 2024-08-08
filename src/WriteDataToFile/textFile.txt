@@ -1,0 +1,3 @@
+Hello!
+This is a java program.
+Writing data from collection of lines.
